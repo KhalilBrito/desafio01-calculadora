@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.6ff8dabf.js",
-    "index.html": "/index.html",
-    "main.6ff8dabf.js.map": "/static/js/main.6ff8dabf.js.map"
+    "main.js": "/desafio01-calculadora/static/js/main.835ffdd0.js",
+    "index.html": "/desafio01-calculadora/index.html",
+    "main.835ffdd0.js.map": "/desafio01-calculadora/static/js/main.835ffdd0.js.map"
   },
   "entrypoints": [
-    "static/js/main.6ff8dabf.js"
+    "static/js/main.835ffdd0.js"
   ]
 }
